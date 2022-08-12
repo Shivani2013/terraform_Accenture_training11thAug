@@ -1,0 +1,5 @@
+this is terraform training
+this is shivi
+this is operation testing
+this is operation testing
+this is operation5 testing

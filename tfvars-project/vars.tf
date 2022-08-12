@@ -1,0 +1,6 @@
+variable "myvar" {
+}
+
+variable "yourvar" {
+}
+

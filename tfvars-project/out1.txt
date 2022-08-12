@@ -1,0 +1,3 @@
+values of myvar is accen and variable yourvar is 1234
+values of myvar is Accenture and variable yourvar is 1000
+values of myvar is Accenture and variable yourvar is 1000
