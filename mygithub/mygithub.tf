@@ -8,7 +8,7 @@ github = {
 }
 
 provider "github" {
-token = "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"
+token = "****************************"
 }
 
 resource "github_repository" "examplerepo" {
